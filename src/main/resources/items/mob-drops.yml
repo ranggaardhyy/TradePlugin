@@ -1,0 +1,11 @@
+items:
+  ROTTEN_FLESH:
+    price: 1
+  BONE:
+    price: 2
+  STRING:
+    price: 2
+  GUNPOWDER:
+    price: 3
+  SPIDER_EYE:
+    price: 4

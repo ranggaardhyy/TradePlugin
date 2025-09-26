@@ -1,0 +1,5 @@
+# Player limits will be automatically stored here
+# Example format:
+# playerUUID:
+#   npcId:
+#     itemName: soldAmount

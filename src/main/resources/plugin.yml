@@ -1,0 +1,14 @@
+name: TraderPlugin
+version: 1.0.0
+main: id.boenyy.trader.TraderPlugin
+api-version: 1.21
+depend: [Vault]
+commands:
+  trader:
+    description: Trader admin commands
+    usage: /<command> <bind/reload>
+    permission: trader.admin
+permissions:
+  trader.admin:
+    description: Allows use of trader admin commands
+    default: op

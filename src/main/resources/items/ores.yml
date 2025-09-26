@@ -1,0 +1,11 @@
+items:
+  DIAMOND:
+    price: 10
+  IRON_INGOT:
+    price: 5
+  GOLD_INGOT:
+    price: 7
+  EMERALD:
+    price: 12
+  COAL:
+    price: 2

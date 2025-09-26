@@ -1,0 +1,11 @@
+items:
+  WHEAT:
+    price: 2
+  CARROT:
+    price: 3
+  POTATO:
+    price: 3
+  SUGAR_CANE:
+    price: 4
+  MELON:
+    price: 5

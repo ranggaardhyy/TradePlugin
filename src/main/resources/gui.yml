@@ -1,0 +1,59 @@
+title: "&6Trader"
+size: 27
+slots:
+  0:
+    item: DIAMOND
+    display-name: "&bDiamond"
+    lore:
+      - "&7Price: $10"
+      - "&7Limit: %limit%/%max%"
+    price: 10
+  1:
+    item: IRON_INGOT
+    display-name: "&fIron Ingot"
+    lore:
+      - "&7Price: $5"
+      - "&7Limit: %limit%/%max%"
+    price: 5
+  2:
+    item: GOLD_INGOT
+    display-name: "&6Gold Ingot"
+    lore:
+      - "&7Price: $7"
+      - "&7Limit: %limit%/%max%"
+    price: 7
+  3:
+    item: WHEAT
+    display-name: "&aWheat"
+    lore:
+      - "&7Price: $2"
+      - "&7Limit: %limit%/%max%"
+    price: 2
+  4:
+    item: CARROT
+    display-name: "&aCarrot"
+    lore:
+      - "&7Price: $3"
+      - "&7Limit: %limit%/%max%"
+    price: 3
+  5:
+    item: POTATO
+    display-name: "&aPotato"
+    lore:
+      - "&7Price: $3"
+      - "&7Limit: %limit%/%max%"
+    price: 3
+  6:
+    item: ROTTEN_FLESH
+    display-name: "&cRotten Flesh"
+    lore:
+      - "&7Price: $1"
+      - "&7Limit: %limit%/%max%"
+    price: 1
+  7:
+    item: BONE
+    display-name: "&fBone"
+    lore:
+      - "&7Price: $2"
+      - "&7Limit: %limit%/%max%"
+    price: 2
